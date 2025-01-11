@@ -17,9 +17,7 @@ In this lab, this is going to walk through how to create an Active Directory hom
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users With Powershell <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <!--
  ```diff
